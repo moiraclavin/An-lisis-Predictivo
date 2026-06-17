@@ -5,6 +5,7 @@
 **Competencia Kaggle:** AP2026Q1
 **Public Score Final:** 0.358
 
+https://www.kaggle.com/competitions/ap2026q1
 ---
 
 ## Objetivo
